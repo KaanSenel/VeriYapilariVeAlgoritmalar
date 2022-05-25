@@ -1,4 +1,4 @@
-#Merge Sort
+# Merge Sort
 
 Bu algoritma diziyi ardışık olarak en küçük alt dizilere yarılar ve tek bir eleman kalana kadar bu işleme devam eder. 
 Tek kalan elemanları birbirleri ile karşılaştırarak tekrar birleştiren algoritmadır.

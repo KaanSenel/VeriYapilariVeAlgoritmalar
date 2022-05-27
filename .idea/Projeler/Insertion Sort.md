@@ -19,7 +19,7 @@ Dizinin sonunda gelene kadar bu algoritma mantığı devam eder.
 
 [22,<span style="color:red">**16**</span>,27,2,18,8] --> 16 değeri 2.indexe geldi, önündeki değerden küçük olduğu için tekrar yer değiştirilir.
 
-####[<span style="color:red">**16**</span>,22,27,2,18,8] --> işlemler sonucu bu sıralama oluşur.
+#### [<span style="color:red">**16**</span>,22,27,2,18,8] --> işlemler sonucu bu sıralama oluşur.
 
 - Dizinin 4.elemanı olan **2** seçilir ve karşılaştırma işlemleri yapılır.
 
@@ -29,7 +29,7 @@ Dizinin sonunda gelene kadar bu algoritma mantığı devam eder.
 
 [16,<span style="color:red">**2**</span>,22,27,18,8] --> 2 değeri önündeki değerden düşüktür ve başa gelir.
 
-####[<span style="color:red">**2**</span>,16,22,27,18,8] --> işlemler sonucu bu sıralama oluşur.
+#### [<span style="color:red">**2**</span>,16,22,27,18,8] --> işlemler sonucu bu sıralama oluşur.
 
 - Dizinin 5. elemanı olan 18 seçilir ve karşılaştırma işlemi yapılır.
 
@@ -53,7 +53,7 @@ Dizinin sonunda gelene kadar bu algoritma mantığı devam eder.
 
 [2,<span style="color:red">**8**</span>,16,18,22,27] --> 8 değeri önündeki değerden büyüktür.
 
-####[2,<span style="color:red">**8**</span>,16,18,22,27] --> işlemler sonucunda bu sıralama oluşur ve dizi Insertion Sort Algoritmasına göre sıralanmış olur.
+#### [2,<span style="color:red">**8**</span>,16,18,22,27] --> işlemler sonucunda bu sıralama oluşur ve dizi Insertion Sort Algoritmasına göre sıralanmış olur.
 
 
 ### Big O
@@ -73,11 +73,11 @@ Average Case : Dizinin normal dağılımı : **n^2**
 
 -----
 
-####[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı
+#### [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı
 
 1. [7,<span style="color:red">**3**</span>,5,8,2,9,4,15,6] --> 2.eleman olan 3 seçilir ve karşılaştırma yapılır.
 2. [3,7,<span style="color:red">**5**</span>,8,2,9,4,15,6] --> 3.eleman olan 5 seçilir ve karşılaştırma yapılır.
 3. [3,5,7,<span style="color:red">**8**</span>,2,9,4,15,6] --> 4.eleman olan 8 seçilir ve karşılaştırma yapılır.
 4. [3,5,7,8,<span style="color:red">**2**</span>,9,4,15,6] --> 5.eleman olan 2 seçilir ve karşılaştırma yapılır.
 
-####4.adımın sonunda oluşan dizi [2,3,5,7,8,9,4,15,6] olur.
+#### 4.adımın sonunda oluşan dizi [2,3,5,7,8,9,4,15,6] olur.

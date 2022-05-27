@@ -11,3 +11,6 @@ Proje içeriği :
 https://github.com/KaanSenel/VeriYapilariVeAlgoritmalar/blob/main/.idea/Projeler/Merge%20Sort.md
 
 ## 3. Binary Search Projesi
+
+Proje içeriği : 
+https://github.com/KaanSenel/VeriYapilariVeAlgoritmalar/blob/main/.idea/Projeler/Binary%20Search%20Tree.md
